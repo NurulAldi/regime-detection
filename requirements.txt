@@ -1,2 +1,6 @@
 pandas
 yfinance
+numpy
+matplotlib
+seaborn
+hmmlearn
